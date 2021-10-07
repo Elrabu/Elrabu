@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elrabu
-- 👀 I’m interested in develloping Android Apps
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in develloping Android Apps and Games with Unity
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
